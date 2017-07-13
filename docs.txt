@@ -1,0 +1,1 @@
+file_delete ({'__builtins__': <module '__builtin__' (built-in)>, '__file__': 'print_docs.py', 'LBRYDaemon': <class 'lbrynet.daemon.Daemon.Daemon'>, '__package__': None, 'api_name': 'file_delete', 'arguments': <function arguments at 0x7fcbef727230>, '__name__': '__main__', '__doc__': None, 'fn': <unbound method Daemon.jsonrpc_file_delete>}, [])
