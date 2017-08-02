@@ -12,6 +12,10 @@ at anytime.
   *
   *
 
+### Added
+  * Adeed option to download by seeking head blob first
+  *
+
 ### Fixed
   *
   *
